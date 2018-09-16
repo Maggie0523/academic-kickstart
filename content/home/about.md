@@ -10,25 +10,25 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Eating",
+    "Watering",
+    "Sleeping"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
+  course = "PhD in Stupidiality"
   institution = "Stanford University"
   year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "GuaGuaGua"
+  institution = "Stanford University"
   year = 2009
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "Nothing Learned"
+  institution = "PKU"
   year = 2008
  
 +++
